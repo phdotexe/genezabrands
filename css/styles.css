@@ -43,8 +43,8 @@
     font-family: Poppins;
 }
 
-.montserratalt{
-    font-family: 'Montserrat Alternates';
+.ptsans{
+    font-family: 'PT Sans';
 }
 
 .Moul{
@@ -59,17 +59,8 @@
     padding-top: 5%;
 }
 
-p{
-    width: 55%;
-}
-
 .mybutton{
     width: 130px;
     height: 50px;
     border-radius: 30px;
 }
-
-@media only screen and (max-width: 600px){
-    
-}
-
