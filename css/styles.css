@@ -1,0 +1,75 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.logo{
+    font-family: 'Poller One';
+    font-size: 20px;
+    color: #fff;
+    font-weight: 500;
+}
+
+/* color */
+.primary{
+    color: #A82F4B;
+}
+
+.bgprimary{
+    background-color: #A82F4B;
+}
+
+.secondary{
+    color: #C65177;
+}
+
+.bgsecondary{
+    background-color: #C65177;
+}
+
+.tertiary{
+    color: #fefefe;
+}
+
+.bgtertiary{
+    background-color: #fefefe;
+}
+
+/* fonts */
+
+.poppins{
+    font-family: Poppins;
+}
+
+.montserratalt{
+    font-family: 'Montserrat Alternates';
+}
+
+.Moul{
+    font-family: Moul;
+}
+
+.display-7{
+    font-size: 24px;
+}
+
+.mainpadding{
+    padding-top: 5%;
+}
+
+p{
+    width: 55%;
+}
+
+.mybutton{
+    width: 130px;
+    height: 50px;
+    border-radius: 30px;
+}
+
+@media only screen and (max-width: 600px){
+    
+}
+
